@@ -1,4 +1,4 @@
-id,MSOA,crime_type,code,description,time,suspect,severity
+id,msoa11cd,crime_type,code,description,time,suspect,severity
 255,E02000001,other theft,49,Other theft,2020-01-01 14:28:00,False,36.80988326
 547,E02000001,vehicle crime,45,Theft from vehicle,2020-01-03 02:59:00,False,32.92067737
 227,E02000001,other crime,99,Other notifiable offences,2020-01-04 03:57:00,False,179.2494716
